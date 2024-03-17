@@ -14,5 +14,6 @@
 10. [Inputs ](#inputs)
 11. [Buttons ](#button)
 12. [Empty elements ](#empty-elements)
+13. [Block line inline elements ](#blockline-inline-elements)
 
 ---
