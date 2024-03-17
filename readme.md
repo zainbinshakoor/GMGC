@@ -10,5 +10,9 @@
 6. [Anchor Tag (a)](#anchor-tag)
 7. [Ordered Lists](#ordered-lists)
 8. [Unordered Lists](#unordered-lists)
+9. [Froms](#forms)
+10. [Inputs ](#inputs)
+11. [Buttons ](#button)
+12. [empty elements ](#empty elements)
 
 ---
