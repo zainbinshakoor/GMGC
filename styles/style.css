@@ -1,0 +1,14 @@
+/* for selecting class (.) */
+.first-child {
+  color: rgba(166, 38, 16, 0.5);
+  border: 2px solid indigo;
+}
+/* for selecting class (#) */
+#second-child {
+  color: blueviolet;
+}
+/*selecting with elemnt */
+h1 {
+  color: aqua;
+}
+/* this is my comment */
