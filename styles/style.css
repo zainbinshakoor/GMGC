@@ -1,14 +1,44 @@
 /* for selecting class (.) */
 .first-child {
   color: rgba(166, 38, 16, 0.5);
-  border: 2px solid indigo;
+  border-left: 2px solid indigo;
 }
 /* for selecting class (#) */
 #second-child {
   color: blueviolet;
 }
 /*selecting with elemnt */
-h1 {
+/* h1 {
   color: aqua;
-}
+} */
 /* this is my comment */
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+/* body {
+  background-color: aqua;
+  background-image: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-attachment: scroll;
+  background-size: cover;
+} */
+
+.main-container {
+  border: 2px solid coral;
+  border-width: 20px 10px 20px 10px;
+  border-radius: 5px;
+  margin-top: 120px;
+
+  /* margin: 50px 20px; */
+  /* border-style: solid dotted dotted dashed; */
+}
+.mt {
+  /* margin: 10px; */
+}
+.pa {
+  padding: 0px 100px;
+}

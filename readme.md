@@ -22,5 +22,7 @@
 1. [id class color ](#id-class-color)
 2. [background-color ](#bg-color)
 3. [border ](#border)
+4. [padding margin ](#padding-margin)
+5. [background ](#background)
 
 ---
